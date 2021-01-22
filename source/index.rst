@@ -8,8 +8,10 @@ Welcome to techs's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
 
+   contents/programming-languages/index.rst
 
 
 Indices and tables
